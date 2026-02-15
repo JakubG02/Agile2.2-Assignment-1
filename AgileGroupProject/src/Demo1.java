@@ -12,10 +12,10 @@ public class Demo1 {
 	public boolean method2(char letter, float number) {
 
 		if (letter == 'A' && number == 12.0) {
-			return false;
+			return false; //If letter = A and number = 12.0, then returns false; otherwise returns true;
 		}
 
-		return true;
+		return true; 
 
 	} // end method2
 
